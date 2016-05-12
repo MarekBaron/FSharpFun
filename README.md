@@ -1,0 +1,2 @@
+# FSharpFun
+Zabawy z FSharpem
